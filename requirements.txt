@@ -1,0 +1,6 @@
+astor==0.8.1
+Deprecated==1.2.18
+inflection==0.5.1
+PyVirtualDisplay==3.0
+Requests==2.32.3
+websocket_client==1.8.0
